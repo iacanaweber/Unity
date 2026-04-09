@@ -24,4 +24,3 @@ char* classifica_triangulo(int a, int b, int c) {
     if (x == y || x == z || y == z) return (char*)IS;
     return (char*)ES;
 }
-
